@@ -1,7 +1,3 @@
-下面是一份為你的專案（位於 [`etonson/TestSecurity`](https://github.com/etonson/TestSecurity/tree/master)）撰寫的 `README.md` 草稿，專案重點為使用 Spring Security 與 JSON Web Token（JWT）進行練習。你可以根據實際內容（例如 package 名稱、API 路徑、依賴版本）再做調整。
-
----
-
 # TestSecurity
 
 Spring Security + JWT 練習專案
@@ -114,13 +110,3 @@ Spring Security + JWT 練習專案
 * 將 token 儲存在資料庫或 Redis，以便撤銷或追蹤。
 * 使用 Swagger 或 OpenAPI 產生 API 文件。
 * 整合 OAuth2／OpenID Connect 以提升驗證能力。
-
-## 授權
-
-本專案為練習用途，採用 MIT 授權（或你可根據需要更改為其他授權）。
-
-> MIT License © [你的名字或團隊名稱]
-
----
-
-如果你願意，我也可以幫你整理一份較精美的 README 樣板（包含徽章、目錄、自動化 CI 等），你要嗎？
